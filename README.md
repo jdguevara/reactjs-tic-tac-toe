@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Building a Tic-Tac-Toe game with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The purpose of this little app is to work on creating a simple tic-tac-toe game with React,\
+and how properties, states, components, and classes coordinate in React.
 
 ## Available Scripts
 
